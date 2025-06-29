@@ -6,7 +6,8 @@ A plugin for SCP: Secret Laboratory powered by EXILED. (original by blackruby)
 [![Downloads](https://img.shields.io/github/downloads/Konoaru384/Better-SinkHole-UPDATED/total?color=blue&label=Downloads)](https://github.com/Konoaru384/Better-SinkHole-UPDATED/releases)
 [![License](https://img.shields.io/github/license/Konoaru384/Better-SinkHole-UPDATED?color=green)](./LICENSE)
 [![Exiled Version](https://img.shields.io/badge/Exiled-9.6+-informational)](https://github.com/Exiled-Team/EXILED)
-[![Discord](https://img.shields.io/discord/729906333294460998?label=Exiled%20Community&logo=discord&color=7289DA)](https://discord.gg/EXILED)
+[![Discord](https://img.shields.io/discord/729906333294460998?label=Exiled%20Community&logo=discord&color=7289DA)](https://discord.com/invite/PyUkWTg)
+[![Latest Release](https://img.shields.io/github/v/release/Konoaru384/Better-SinkHole-UPDATED?label=Latest%20Release)](https://github.com/Konoaru384/Better-SinkHole-UPDATED/releases)
 
 ---
 
