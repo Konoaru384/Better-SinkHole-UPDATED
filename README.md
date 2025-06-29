@@ -3,11 +3,14 @@
 **Enhance sinkhole behavior with pocket dimension teleportation and custom effects**  
 A plugin for SCP: Secret Laboratory powered by EXILED. *(original by blackruby)*
 
-[![Downloads](https://img.shields.io/github/downloads/Konoaru384/Better-SinkHole-UPDATED/total?color=blue&label=Downloads)](https://github.com/Konoaru384/Better-SinkHole-UPDATED/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Konoaru384/Better-SinkHole-UPDATED?label=Latest%20Release)](https://github.com/Konoaru384/Better-SinkHole-UPDATED/releases)
-[![License](https://img.shields.io/github/license/Konoaru384/Better-SinkHole-UPDATED?color=green)](./LICENSE)
-[![Exiled Version](https://img.shields.io/badge/Exiled-9.6+-informational)](https://github.com/Exiled-Team/EXILED)
-[![Discord](https://img.shields.io/discord/729906333294460998?label=Exiled%20Community&logo=discord&color=7289DA)](https://discord.com/invite/PyUkWTg)
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Konoaru384/Better-SinkHole-UPDATED/total?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXILED-9.6.0-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RP%20Friendly-%E2%9C%94-lightgreen?style=for-the-badge" />
+  <a href="https://discord.gg/vxGeGFr5Bc">
+    <img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord" />
+  </a>
+</p>
 
 ---
 
