@@ -1,8 +1,7 @@
 # 🕳️ Better Sinkholes Updated
 
 **Enhance sinkhole behavior with pocket dimension teleportation**  
-A plugin for SCP: Secret Laboratory powered by EXILED.
--# (original by blackruby)
+A plugin for SCP: Secret Laboratory powered by EXILED. (original by blackruby)
 
 [![Downloads](https://img.shields.io/github/downloads/Konoaru384/Better-SinkHole-UPDATED/total?color=blue&label=Downloads)](https://github.com/Konoaru384/Better-SinkHole-UPDATED/releases)
 [![License](https://img.shields.io/github/license/Konoaru384/Better-SinkHole-UPDATED?color=green)](./LICENSE)
