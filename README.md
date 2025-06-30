@@ -1,6 +1,6 @@
 # 🕳️ Better Sinkholes Updated (Another update for Better Sinkholes)
 
-**Enhance sinkhole behavior with pocket dimension teleportation and custom effects**  
+**Enhance sinkhole behavior with pocket dimension teleportation and custom broadcast**  
 A plugin for SCP: Secret Laboratory powered by EXILED. *(original by blackruby)*
 
 <p align="center">
