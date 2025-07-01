@@ -19,7 +19,6 @@ A plugin for SCP: Secret Laboratory powered by EXILED. *(original by blackruby)*
 This plugin enhances gameplay by modifying how **Sinkholes** work in SCP:SL maps. When a player **stands at the center of a sinkhole**, they:
 
 - 🌀 Get **teleported to the Pocket Dimension**
-- 🎭 Receive optional **Corroding effects**
 - 📢 See a **custom broadcast message**
 
 All of this is **fully configurable** via `config.yml`.
